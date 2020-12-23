@@ -1,0 +1,6 @@
+pyyaml
+streamlit
+emoji
+pandas
+joblib
+sklearn
